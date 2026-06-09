@@ -1,0 +1,24 @@
+PRIVACY POLICY
+
+Last Updated: June 2026
+
+Real Calculator respects your privacy.
+
+This application does not collect, store, transmit, or share any personal information. All calculations are performed locally on the user's device.
+
+The application may use local device storage to save settings and preferences for a better user experience.
+
+We do not sell, rent, or disclose any user information to third parties.
+
+No personal information is required to use the application.
+
+If future versions of the application introduce features that require data collection, this Privacy Policy will be updated accordingly.
+
+Contact Information:
+
+Developer: Babita Devi
+Email: babitaself0@gmail.com
+
+By using this application, you agree to this Privacy Policy.
+
+© 2026 Real Calculator. All Rights Reserved.
